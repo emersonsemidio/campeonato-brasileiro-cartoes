@@ -35,11 +35,3 @@ Os dados utilizados no projeto abrangem todas as partidas do Campeonato Brasilei
 
 5. **Análise Temporal**:
    - Exploramos se há um padrão na distribuição de cartões em jogos realizados em diferentes épocas da temporada, como finais e jogos decisivos.
-
-## Ferramentas e Tecnologias Utilizadas
-
-- **Python**: Linguagem principal utilizada no projeto.
-- **Pandas**: Para manipulação e análise de dados.
-- **Matplotlib e Seaborn**: Para visualização dos dados e criação de gráficos.
-- **Jupyter Notebook**: Para desenvolvimento interativo das análises.
-
