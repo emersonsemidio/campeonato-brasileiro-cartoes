@@ -1,6 +1,3 @@
-Aqui está um exemplo de `README.md` para o seu projeto de análise de dados:
-
----
 
 # Análise de Cartões no Campeonato Brasileiro Série A (2003-2024) 🏆
 
