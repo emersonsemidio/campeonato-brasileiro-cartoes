@@ -35,3 +35,7 @@ Os dados utilizados no projeto abrangem todas as partidas do Campeonato Brasilei
 
 5. **Análise Temporal**:
    - Exploramos se há um padrão na distribuição de cartões em jogos realizados em diferentes épocas da temporada, como finais e jogos decisivos.
+  
+6. **Visualizar análise**
+   - Abra o arquivo de analise_cartoes_brasileiro.ipynb para visualizar a análise feita
+  
